@@ -1,0 +1,2 @@
+# fluxstore
+Flutter Flux Store
